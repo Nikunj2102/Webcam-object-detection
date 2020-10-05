@@ -1,5 +1,6 @@
 .position {
-  position: fixed;
-  top: 0;
-  left: 0;
+  position: absolute;
+  top: 9%;
+  left: 25%;
+  border: 20px solid white;
 }
