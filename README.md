@@ -1,7 +1,7 @@
 # Webcam Object Detection
 
-Real time object detection of stream coming through webcam.<br/>
-Create-react-app project with tensorflow.js.<br/>
+Real time object detection of video stream coming through webcam.<br/>
+Create-react-app project with Tensorflow.js.<br/>
 COCO-SSD model with lite_mobilenet_v2 cnn<br/>
 
 # How to run the app
