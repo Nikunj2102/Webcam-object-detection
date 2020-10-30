@@ -77,10 +77,10 @@ class App extends Component {
           playsInline
           muted
           ref="video"
-          width="600"
-          height="500"
+          width="700"
+          height="550"
         />
-        <canvas className="position" ref="canvas" width="600" height="500" />
+        <canvas className="position" ref="canvas" width="700" height="550" />
       </div>
     );
   }
